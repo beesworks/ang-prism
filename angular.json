@@ -122,11 +122,11 @@
   "defaultProject": "ang-prism",
   "schematics": {
     "@schematics/angular:component": {
-      "prefix": "app",
+      "prefix": "code",
       "styleext": "css"
     },
     "@schematics/angular:directive": {
-      "prefix": "app"
+      "prefix": "code"
     }
   }
 }
